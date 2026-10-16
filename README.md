@@ -11,7 +11,7 @@ Hola👋, soy Rodrigo Fuertes Llorente, tengo 19 años y siempre me ha gustado l
 
 ## Herramientas y tecnologías
 <!-- Aqui uso skill icons que es para poner estos iconicos bonicos -->
-![Texto alternativo](https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode&theme=dark)
+![Texto alternativo](https://skillicons.dev/icons?i=html,css,js,git,github,java,vscode&theme=dark)
 
 
 <!--
