@@ -5,7 +5,7 @@
 - 🌱 Estoy estudiando 1º de DAM
 - ✨ Graduado en Grado Medio de SMR
 - 📫 Contacta conmigo:
-  * [Correo Electrónico](rodrigo.fuertes.llorente@gmail.com)
+  * [Correo Electrónico](mailto:rodrigo.fuertes.llorente@gmail.com)
   * [Discord]()
 
 <!--
