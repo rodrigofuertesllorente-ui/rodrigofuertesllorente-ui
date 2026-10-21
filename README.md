@@ -24,7 +24,10 @@ Hola👋, soy Rodrigo Fuertes Llorente, tengo 19 años y siempre me ha gustado l
 <!-- Aqui uso skill icons que es para poner estos iconicos bonicos -->
 ![Texto alternativo](https://skillicons.dev/icons?i=html,css,js,git,github,java,vscode&theme=dark)
 
+---
 
+> La vida es como una bicicleta, para mantener el equilibrio tienes que seguir adelante
+> > Albert Einstein
 <!--
 **rodrigofuertesllorente-ui/rodrigofuertesllorente-ui** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
