@@ -1,7 +1,5 @@
 ## Sobre mí
-
 ---
-
 Hola👋, soy Rodrigo Fuertes Llorente, tengo 19 años y siempre me ha gustado la informática, sobre todo la programación
 
 - 🌱 Estoy estudiando 1º de DAM
@@ -10,11 +8,8 @@ Hola👋, soy Rodrigo Fuertes Llorente, tengo 19 años y siempre me ha gustado l
 - 📫 Contacta conmigo:
   * [Correo Electrónico](mailto:rodrigo.fuertes.llorente@gmail.com)
 
-
 ## Herramientas y tecnologías
-
 ---
-
 | Tecnología / Habilidad | Nivel / Descripción |
 |---                     |                  ---|
 | 🌐  HTML               | Medio              |
