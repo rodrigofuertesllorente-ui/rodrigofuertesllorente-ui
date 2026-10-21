@@ -26,8 +26,7 @@ Hola👋, soy Rodrigo Fuertes Llorente, tengo 19 años y siempre me ha gustado l
 
 ---
 
-> La vida es como una bicicleta, para mantener el equilibrio tienes que seguir adelante
-> > Albert Einstein
+> La vida es como una bicicleta, para mantener el equilibrio tienes que seguir adelante   - Albert Einstein
 <!--
 **rodrigofuertesllorente-ui/rodrigofuertesllorente-ui** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
