@@ -9,18 +9,18 @@ Hola👋, soy Rodrigo Fuertes Llorente, tengo 19 años y siempre me ha gustado l
 - ✨ Graduado en Grado Medio de SMR
 - 📫 Contacta conmigo:
   * [Correo Electrónico](mailto:rodrigo.fuertes.llorente@gmail.com)
-
+  * [Discord](linkplaceholder)
 ## Herramientas y tecnologías
 
 
 
 | Tecnología / Habilidad | Nivel / Descripción |
 |---                     |                  ---|
-| 🌐  HTML               | Medio              |
-| 🎨 CSS                |               Medio |
-| 🐙 Git y GitHub       |   Bajo              |
-| ☕ Java               |                Bajo |
-| 💻 VSC           | Editor de código         |
+| 🌐  **HTML**           | Medio               |
+| 🎨 **CSS**             |               Medio |
+| 🐙 **Git y GitHub**    |   Bajo              |
+| ☕ **Java**            |                Bajo |
+| 💻 **VSC**             | *Editor de código*  |
 <!-- Aqui uso skill icons que es para poner estos iconicos bonicos -->
 ![Texto alternativo](https://skillicons.dev/icons?i=html,css,js,git,github,java,vscode&theme=dark)
 
